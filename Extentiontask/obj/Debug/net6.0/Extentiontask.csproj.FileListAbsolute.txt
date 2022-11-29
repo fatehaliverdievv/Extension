@@ -1,0 +1,15 @@
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\bin\Debug\net6.0\Extentiontask.exe
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\bin\Debug\net6.0\Extentiontask.deps.json
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\bin\Debug\net6.0\Extentiontask.runtimeconfig.json
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\bin\Debug\net6.0\Extentiontask.dll
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\bin\Debug\net6.0\Extentiontask.pdb
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\obj\Debug\net6.0\Extentiontask.csproj.AssemblyReference.cache
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\obj\Debug\net6.0\Extentiontask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\obj\Debug\net6.0\Extentiontask.AssemblyInfoInputs.cache
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\obj\Debug\net6.0\Extentiontask.AssemblyInfo.cs
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\obj\Debug\net6.0\Extentiontask.csproj.CoreCompileInputs.cache
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\obj\Debug\net6.0\Extentiontask.dll
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\obj\Debug\net6.0\refint\Extentiontask.dll
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\obj\Debug\net6.0\Extentiontask.pdb
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\obj\Debug\net6.0\Extentiontask.genruntimeconfig.cache
+C:\Users\Fateh\Desktop\C#\Extentiontask\Extentiontask\obj\Debug\net6.0\ref\Extentiontask.dll
